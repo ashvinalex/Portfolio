@@ -1,5 +1,7 @@
 import {FaLinkedin} from "react-icons/fa"
 import {FaGithub} from "react-icons/fa"
+import { SiTableau } from "react-icons/si";
+
 
 
 
@@ -12,7 +14,9 @@ const Navbar = () => {
 
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl ">
-            <a href="https://www.linkedin.com/in/ashvin-alex/"><FaLinkedin/></a>
+        
+            <a href="https://public.tableau.com/app/profile/ashvin.alex/vizzes"><SiTableau /></a>
+            <a href="https://www.linkedin.com/in/ashvin-alex/"><FaLinkedin /></a>
             <a href="https://github.com/ashvinalex"> <FaGithub/></a>
             
         </div>
