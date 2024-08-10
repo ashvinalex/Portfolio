@@ -1,9 +1,9 @@
 import {RiReactjsLine} from "react-icons/ri"
-import { GithubOriginalIcon } from "react-devicons";
-import{JavaOriginalIcon} from "react-devicons";
-import{PythonOriginalIcon} from "react-devicons";
+import {GithubOriginalIcon } from "react-devicons";
+import {JavaOriginalIcon} from "react-devicons";
+import {PythonOriginalIcon} from "react-devicons";
 import {FlaskOriginalIcon} from "react-devicons";
-import{AmazonwebservicesPlainWordmarkIcon} from "react-devicons";
+import {AmazonwebservicesPlainWordmarkIcon} from "react-devicons";
 import {MysqlOriginalIcon} from "react-devicons";
 import {ApachesparkPlainWordmarkIcon} from "react-devicons";
 import {NumpyPlainWordmarkIcon} from "react-devicons";
@@ -50,9 +50,7 @@ const Tech = () => {
             <div className="rounded-2xl border-2 border-neutral-800 p-4">
             <FlaskOriginalIcon className="text-2xl" color="white" />
             </div>
-
-
-
+      
             <div className="rounded-2xl border-2 border-neutral-800 p-4">
             <MysqlOriginalIcon className="text-2xl" color="white" />
             </div>

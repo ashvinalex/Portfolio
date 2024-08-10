@@ -1,5 +1,4 @@
-import aboutimg from "../assets/about.jpg"
-import img from "../assets/t1.jpg"
+import img from "../assets/t1.png"
 import {ABOUT_TEXT} from "../constants"
 const About = () => {
   return (
