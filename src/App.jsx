@@ -6,6 +6,7 @@ import Experience from "./components/Experience"
 import Certifications from "./components/Certifications"
 import Projects from "./components/Projects"
 import Contact from "./components/Contact"
+import Education from "./components/Education"
 const App = () => {
   return (
   
@@ -19,6 +20,7 @@ const App = () => {
       <About/>
       <Tech/>
       <Experience/>
+      <Education/>
       <Certifications/>
       <Projects/>
       <Contact/>

@@ -2,9 +2,6 @@ import {FaLinkedin} from "react-icons/fa"
 import {FaGithub} from "react-icons/fa"
 import { SiTableau } from "react-icons/si";
 
-
-
-
 const Navbar = () => {
   return (
     <nav className="mb-20 flex items-center justify-between py-6">
